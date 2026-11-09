@@ -3,14 +3,35 @@
 Le vélo électrique pliable se vend bien en boutique mais peu en ligne. Le
 budget SEA (Google Ads) est de 500€/mois.
 
-Rédige, pour la requête commerciale "velo electrique pliable pas cher" :
+Requête ciblée : **"velo electrique pliable pas cher"**
 
-- **1 titre d'annonce** (30 caractères max)
-- **1 description** (90 caractères max)
-- **3 mots-clés complémentaires** à cibler, en t'appuyant sur les 4 types
-  d'intention de recherche vus en quête `seo-02` (au moins un mot-clé
-  informationnel, un commercial, un transactionnel)
+## Annonce
 
-> Rappel : le SEA complète le SEO, il ne le remplace pas : un bon score
-> Quality Score Google Ads dépend aussi de la pertinence de la page
-> d'atterrissage, pas seulement de l'annonce.
+- **Titre** (28 / 30 caractères) :
+  `Vélo électrique pliable 899€`
+- **Description** (89 / 90 caractères) :
+  `Autonomie 60 km, pliable en 10 s, livraison offerte. Commandez en ligne dès aujourd'hui !`
+
+Le prix dans le titre répond directement au « pas cher » de la requête, et la
+page d'atterrissage est la fiche produit `/produits/velo-electrique-pliable`
+(même nom, même prix, même description) pour un bon Quality Score.
+
+## 3 mots-clés complémentaires
+
+| Mot-clé | Intention | Pourquoi |
+|---------|-----------|----------|
+| `comment choisir un vélo électrique pliable` | Informationnelle | Touche les gens qui se renseignent, en amont de l'achat. À travailler plutôt en SEO (article guide) avec une petite enchère SEA. |
+| `comparatif vélo électrique pliable` | Commerciale | L'utilisateur compare des modèles avant d'acheter : bon moment pour mettre en avant l'autonomie et le prix. |
+| `acheter vélo électrique pliable en ligne` | Transactionnelle | Intention d'achat immédiate, le mot-clé le plus rentable : c'est là qu'on met la plus grosse partie des 500 €. |
+
+Bonus navigationnel : `cycloshop vélo pliable`, peu cher à l'enchère, pour
+protéger le nom de la marque face aux concurrents.
+
+## Répartition du budget (500 €/mois)
+
+- ~60 % sur le transactionnel et la requête principale
+- ~30 % sur le commercial
+- ~10 % sur l'informationnel et la marque
+
+Une fois que la fiche produit remonte en SEO sur ces requêtes, on baisse le
+budget SEA dessus et on le réalloue à d'autres produits.
